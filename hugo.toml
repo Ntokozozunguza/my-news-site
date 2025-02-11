@@ -1,1 +1,5 @@
+baseURL = "https://Ntokozozunguza.github.io/my-news-site/"
+languageCode = "en-us"
+title = "My News Site"
+theme = "your-theme-name"
 
